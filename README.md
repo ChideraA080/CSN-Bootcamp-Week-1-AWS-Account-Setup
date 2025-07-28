@@ -26,4 +26,4 @@ This ensures every participant has access to their own AWS environment to practi
 - I logged in to confirm successful setup via the AWS Console showing my account ID.
 
 
-![AWS Console Screenshot](https://github.com/ChideraA080/CSN-Bootcamp-Week-1-AWS-Account-Setup/blob/main/CSN%20BOOTCAMP%20WEEK%201%20TASK/CSN%20BOOTCAMP%20WEEK%201.png)
+![AWS Console Screenshot](https://github.com/ChideraA080/CSN-Bootcamp-Week-1-AWS-Account-Setup/blob/main/CSN%20BOOTCAMP%20WEEK%201.png)
